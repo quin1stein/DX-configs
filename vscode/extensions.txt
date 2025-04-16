@@ -1,0 +1,31 @@
+** For Development Experience
+-- Error Lens: Improve highlighting of errors, warnings and other language diagnostics.
+Link: https://marketplace.visualstudio.com/items/?itemName=usernamehw.errorlens
+
+-- Live Server: Launch a development local Server with live reload feature for static & dynamic pages
+Link: https://marketplace.visualstudio.com/items/?itemName=ritwickdey.LiveServer
+
+-- Lorem ipsum: Generates and inserts lorem ipsum text
+Link: https://marketplace.visualstudio.com/items/?itemName=Tyriar.lorem-ipsum
+
+-- Prettier: Typescript/Javascript code formatter
+Link: https://marketplace.visualstudio.com/items/?itemName=esbenp.prettier-vscode
+
+-- Tailwind CSS IntelliSense: Intelligent Tailwind CSS tooling for VS Code
+Link: https://marketplace.visualstudio.com/items/?itemName=bradlc.vscode-tailwindcss
+
+-- Neovim: Vim mode for VSCode, powered by Neovim
+Link: https://marketplace.visualstudio.com/items/?itemName=asvetliakov.vscode-neovim
+
+-- Code Runner: Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, etc..
+Link: https://marketplace.visualstudio.com/items/?itemName=formulahendry.code-runner
+
+
+
+** For IDE Appearance
+-- Material Icon Theme: Material Design Icons for Visual Studio Code
+Link: https://marketplace.visualstudio.com/items/?itemName=PKief.material-icon-theme
+
+-- GitHub Theme: GitHub theme for VS Code
+Theme I am using: Github Dark Colorblind (Beta)
+Link: https://marketplace.visualstudio.com/items/?itemName=GitHub.github-vscode-theme
